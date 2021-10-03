@@ -1,16 +1,18 @@
-### Hi there 👋
+# _Hi there_ 👋 
+### _My name Anton, i'm  <s>HTML/Markup</s> Front-End Developer(HTML/CSS/JavaScript)_
+_I’m currently learning fundamental JavaScript and React.js_ :books:
 
-<!--
-**purr-purr/purr-purr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- _<a href="https://shaposhnikov.in/" target="_blank">My Portfolio</a>_ :link:
 
-Here are some ideas to get you started:
+- _<a href="https://shaposhnikov.in/assets-file/resume.pdf" target="_blank">My Resume</a>_ :link:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- _My favorite Stack: WebPack, JS, SCSS, BEM, GitHub_
+
+📫 _U can looking me here: <a href="https://www.linkedin.com/in/shaposhnikov95/" target="_blank">LinkedIn</a>,
+  <a href="https://t.me/purrpurr" target="_blank">Telegram</a> and shaposhnikov.web@gmail.com_ :shipit:
+
+
+:alien: _see ya_ :wink:
+
+ 
+ 
