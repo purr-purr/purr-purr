@@ -4,8 +4,6 @@
 
 - _<a href="https://shaposhnikov.in/assets-file/CV_UI_Developer_Shaposhnikov_Anton.pdf" target="_blank">My Resume</a>_ :link:
 
-- _Favorite Stack: React.js, TypeScript, JS, SCSS, SUIT, GitHub_
-
 📫 _U can looking me here: <a href="https://www.linkedin.com/in/shaposhnikov-dev/" target="_blank">LinkedIn</a>,
   <a href="https://t.me/purrpurr" target="_blank">Telegram</a> and shaposhnikov.web@gmail.com_ :shipit:
 
