@@ -1,5 +1,5 @@
 # _Hi there_ 👋 
-### _My name Anton, i'm Front-End Developer_
+### _My name Anton, i'm Frontend Developer_
 ### _For web development I like use JavaScript, React, TypeScript, SCSS or Styled Components_
 - _<a href="https://shaposhnikov.in/" target="_blank">My Portfolio</a>_ :link:
 
